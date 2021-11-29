@@ -1,0 +1,3 @@
+#springbootboot启动时会通过@EnableAutoConfiguration扫描加载
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.example.configuration.DemoAutoConfigure

@@ -1,0 +1,5 @@
+demo:
+  service:
+    prefix: ----
+    suffix: ====
+    enable: true
